@@ -1,0 +1,1272 @@
+Transcripción de: narration.mp3
+Modelo: large-v2
+Idioma: es
+Duración: 394.27 segundos
+
+
+[0.21s -> 4.51s]  Le pedí a mi mejor amiga que me ayudara a espiar a mi novio, y terminó embarazada de él.
+  [0.21s -> 0.29s]: Le
+  [0.35s -> 0.53s]: pedí
+  [0.55s -> 0.61s]: a
+  [0.65s -> 0.73s]: mi
+  [0.79s -> 1.03s]: mejor
+  [1.05s -> 1.33s]: amiga
+  [1.37s -> 1.47s]: que
+  [1.51s -> 1.57s]: me
+  [1.61s -> 1.93s]: ayudara
+  [1.95s -> 1.97s]: a
+  [2.05s -> 2.33s]: espiar
+  [2.35s -> 2.37s]: a
+  [2.41s -> 2.49s]: mi
+  [2.53s -> 2.79s]: novio,
+  [3.09s -> 3.13s]: y
+  [3.19s -> 3.59s]: terminó
+  [3.65s -> 4.15s]: embarazada
+  [4.19s -> 4.27s]: de
+  [4.37s -> 4.51s]: él.
+
+[5.01s -> 11.08s] Todo comenzó hace seis meses, cuando noté que Carlos, mi novio de tres años, comenzó a actuar de manera extraña.
+  [5.01s -> 5.19s]: Todo
+  [5.25s -> 5.59s]: comenzó
+  [5.63s -> 5.82s]: hace
+  [5.88s -> 6.05s]: seis
+  [6.09s -> 6.33s]: meses,
+  [6.75s -> 6.94s]: cuando
+  [7.00s -> 7.22s]: noté
+  [7.24s -> 7.34s]: que
+  [7.42s -> 7.72s]: Carlos,
+  [8.04s -> 8.10s]: mi
+  [8.14s -> 8.38s]: novio
+  [8.42s -> 8.50s]: de
+  [8.56s -> 8.74s]: tres
+  [8.82s -> 9.02s]: años,
+  [9.40s -> 9.76s]: comenzó
+  [9.78s -> 9.80s]: a
+  [9.82s -> 10.14s]: actuar
+  [10.18s -> 10.26s]: de
+  [10.32s -> 10.58s]: manera
+  [10.66s -> 11.08s]: extraña.
+
+[11.98s -> 18.60s] Llegaba tarde del trabajo, recibía mensajes a altas horas de la noche y cancelaba nuestras citas con excusas cada vez menos creíbles.
+  [11.98s -> 12.32s]: Llegaba
+  [12.40s -> 12.66s]: tarde
+  [12.70s -> 12.82s]: del
+  [12.86s -> 13.18s]: trabajo,
+  [13.48s -> 13.82s]: recibía
+  [13.86s -> 14.26s]: mensajes
+  [14.40s -> 14.42s]: a
+  [14.48s -> 14.70s]: altas
+  [14.74s -> 14.92s]: horas
+  [14.96s -> 15.02s]: de
+  [15.06s -> 15.12s]: la
+  [15.16s -> 15.40s]: noche
+  [15.42s -> 15.44s]: y
+  [15.56s -> 16.02s]: cancelaba
+  [16.06s -> 16.36s]: nuestras
+  [16.40s -> 16.64s]: citas
+  [16.68s -> 16.80s]: con
+  [16.86s -> 17.22s]: excusas
+  [17.24s -> 17.32s]: cada
+  [17.64s -> 17.82s]: vez
+  [17.88s -> 18.10s]: menos
+  [18.18s -> 18.60s]: creíbles.
+
+[19.22s -> 25.43s] Una noche, mientras cenábamos en nuestro restaurante favorito, Carlos recibió una llamada y salió rápidamente para contestar.
+  [19.22s -> 19.32s]: Una
+  [19.38s -> 19.66s]: noche,
+  [19.90s -> 20.14s]: mientras
+  [20.20s -> 20.60s]: cenábamos
+  [20.66s -> 20.70s]: en
+  [20.75s -> 20.96s]: nuestro
+  [21.02s -> 21.52s]: restaurante
+  [21.59s -> 22.00s]: favorito,
+  [22.35s -> 22.65s]: Carlos
+  [22.69s -> 23.03s]: recibió
+  [23.09s -> 23.21s]: una
+  [23.25s -> 23.59s]: llamada
+  [23.61s -> 23.63s]: y
+  [23.79s -> 24.05s]: salió
+  [24.15s -> 24.73s]: rápidamente
+  [24.81s -> 24.93s]: para
+  [25.01s -> 25.43s]: contestar.
+
+[26.48s -> 27.40s]  Algo no me cuadraba.
+  [26.48s -> 26.68s]: Algo
+  [26.74s -> 26.82s]: no
+  [26.88s -> 26.94s]: me
+  [27.00s -> 27.40s]: cuadraba.
+
+[27.92s -> 32.69s] Después de semanas de incertidumbre y ansiedad, decidí que necesitaba ayuda para descubrir la verdad.
+  [27.92s -> 28.16s]: Después
+  [28.18s -> 28.28s]: de
+  [28.32s -> 28.60s]: semanas
+  [28.64s -> 28.70s]: de
+  [28.76s -> 29.37s]: incertidumbre
+  [29.41s -> 29.43s]: y
+  [29.45s -> 29.89s]: ansiedad,
+  [30.25s -> 30.57s]: decidí
+  [30.61s -> 30.71s]: que
+  [30.77s -> 31.27s]: necesitaba
+  [31.29s -> 31.59s]: ayuda
+  [31.67s -> 31.79s]: para
+  [31.85s -> 32.29s]: descubrir
+  [32.35s -> 32.41s]: la
+  [32.45s -> 32.69s]: verdad.
+
+[33.64s -> 36.60s]  ¿Y quién mejor que Laura, mi mejor amiga desde la secundaria?
+  [33.64s -> 33.68s]: ¿Y
+  [33.74s -> 33.92s]: quién
+  [33.96s -> 34.16s]: mejor
+  [34.20s -> 34.30s]: que
+  [34.34s -> 34.60s]: Laura,
+  [34.90s -> 34.98s]: mi
+  [35.06s -> 35.30s]: mejor
+  [35.32s -> 35.62s]: amiga
+  [35.68s -> 35.90s]: desde
+  [35.94s -> 36.00s]: la
+  [36.06s -> 36.60s]: secundaria?
+
+[37.10s -> 38.80s] Por supuesto que te ayudaré, Marina.
+  [37.10s -> 37.18s]: Por
+  [37.24s -> 37.54s]: supuesto
+  [37.60s -> 37.68s]: que
+  [37.70s -> 37.76s]: te
+  [37.78s -> 38.20s]: ayudaré,
+  [38.48s -> 38.80s]: Marina.
+
+[39.66s -> 40.88s] Para eso están las amigas.
+  [39.66s -> 39.83s]: Para
+  [39.91s -> 40.10s]: eso
+  [40.15s -> 40.33s]: están
+  [40.37s -> 40.47s]: las
+  [40.52s -> 40.88s]: amigas.
+
+[41.89s -> 44.63s] Si Carlos está haciendo algo indebido, mereces saberlo.
+  [41.89s -> 41.99s]: Si
+  [42.03s -> 42.31s]: Carlos
+  [42.37s -> 42.53s]: está
+  [42.55s -> 42.89s]: haciendo
+  [42.91s -> 43.13s]: algo
+  [43.19s -> 43.59s]: indebido,
+  [43.87s -> 44.17s]: mereces
+  [44.23s -> 44.63s]: saberlo.
+
+[45.17s -> 46.27s] Gracias, Laura.
+  [45.17s -> 45.57s]: Gracias,
+  [45.95s -> 46.27s]: Laura.
+
+[47.21s -> 48.87s] No sabes cuánto significa para mí.
+  [47.21s -> 47.31s]: No
+  [47.37s -> 47.65s]: sabes
+  [47.71s -> 47.93s]: cuánto
+  [47.99s -> 48.49s]: significa
+  [48.57s -> 48.69s]: para
+  [48.77s -> 48.87s]: mí.
+
+[49.81s -> 52.15s] Sólo necesito estar segura antes de confrontarlo.
+  [49.81s -> 49.99s]: Sólo
+  [50.05s -> 50.45s]: necesito
+  [50.49s -> 50.67s]: estar
+  [50.75s -> 51.11s]: segura
+  [51.21s -> 51.41s]: antes
+  [51.45s -> 51.51s]: de
+  [51.57s -> 52.15s]: confrontarlo.
+
+[52.67s -> 53.35s] No te preocupes.
+  [52.67s -> 52.73s]: No
+  [52.77s -> 52.87s]: te
+  [52.89s -> 53.35s]: preocupes.
+
+[54.31s -> 57.85s] Podrías seguirlo después del trabajo, ver a dónde va, con quién se encuentra.
+  [54.31s -> 54.61s]: Podrías
+  [54.65s -> 54.99s]: seguirlo
+  [55.05s -> 55.29s]: después
+  [55.33s -> 55.43s]: del
+  [55.47s -> 55.83s]: trabajo,
+  [56.11s -> 56.25s]: ver
+  [56.27s -> 56.29s]: a
+  [56.33s -> 56.51s]: dónde
+  [56.59s -> 56.71s]: va,
+  [56.95s -> 57.07s]: con
+  [57.11s -> 57.29s]: quién
+  [57.33s -> 57.39s]: se
+  [57.43s -> 57.85s]: encuentra.
+
+[58.71s -> 61.07s] Tú no puedes hacerlo porque te reconocería de inmediato.
+  [58.71s -> 58.77s]: Tú
+  [58.81s -> 58.89s]: no
+  [58.95s -> 59.13s]: puedes
+  [59.19s -> 59.51s]: hacerlo
+  [59.55s -> 59.75s]: porque
+  [59.77s -> 59.85s]: te
+  [59.91s -> 60.43s]: reconocería
+  [60.47s -> 60.55s]: de
+  [60.59s -> 61.07s]: inmediato.
+
+[61.59s -> 62.81s] El plan parecía perfecto.
+  [61.59s -> 61.65s]: El
+  [61.71s -> 61.87s]: plan
+  [61.91s -> 62.33s]: parecía
+  [62.40s -> 62.81s]: perfecto.
+
+[63.76s -> 66.74s]  Laura trabajaba como freelancer y tenía horarios flexibles.
+  [63.76s -> 63.99s]: Laura
+  [64.06s -> 64.47s]: trabajaba
+  [64.53s -> 64.67s]: como
+  [64.75s -> 65.28s]: freelancer
+  [65.34s -> 65.36s]: y
+  [65.44s -> 65.72s]: tenía
+  [65.80s -> 66.18s]: horarios
+  [66.24s -> 66.74s]: flexibles.
+
+[67.78s -> 72.94s] Además, Carlos la conocía pero no lo suficiente como para sospechar si la veía casualmente en la calle.
+  [67.78s -> 68.06s]: Además,
+  [68.48s -> 68.72s]: Carlos
+  [68.78s -> 68.82s]: la
+  [68.88s -> 69.30s]: conocía
+  [69.36s -> 69.50s]: pero
+  [69.56s -> 69.64s]: no
+  [69.70s -> 69.76s]: lo
+  [69.82s -> 70.24s]: suficiente
+  [70.30s -> 70.46s]: como
+  [70.52s -> 70.64s]: para
+  [70.72s -> 71.14s]: sospechar
+  [71.16s -> 71.26s]: si
+  [71.32s -> 71.36s]: la
+  [71.42s -> 71.70s]: veía
+  [71.76s -> 72.42s]: casualmente
+  [72.48s -> 72.56s]: en
+  [72.60s -> 72.64s]: la
+  [72.70s -> 72.94s]: calle.
+
+[73.46s -> 76.02s] Dame su horario y las direcciones de los lugares que frecuenta.
+  [73.46s -> 73.66s]: Dame
+  [73.70s -> 73.78s]: su
+  [73.80s -> 74.14s]: horario
+  [74.18s -> 74.22s]: y
+  [74.28s -> 74.36s]: las
+  [74.38s -> 74.80s]: direcciones
+  [74.84s -> 74.92s]: de
+  [74.96s -> 75.04s]: los
+  [75.08s -> 75.36s]: lugares
+  [75.40s -> 75.50s]: que
+  [75.54s -> 76.02s]: frecuenta.
+
+[76.88s -> 79.76s] Me encargaré del resto y te mantendré informada por WhatsApp.
+  [76.88s -> 76.96s]: Me
+  [77.00s -> 77.40s]: encargaré
+  [77.42s -> 77.54s]: del
+  [77.60s -> 77.84s]: resto
+  [77.86s -> 77.88s]: y
+  [77.90s -> 78.14s]: te
+  [78.18s -> 78.58s]: mantendré
+  [78.62s -> 79.02s]: informada
+  [79.08s -> 79.18s]: por
+  [79.36s -> 79.76s]: WhatsApp.
+
+[80.24s -> 81.78s] Le di toda la información que tenía.
+  [80.24s -> 80.32s]: Le
+  [80.36s -> 80.48s]: di
+  [80.54s -> 80.72s]: toda
+  [80.78s -> 80.82s]: la
+  [80.88s -> 81.34s]: información
+  [81.38s -> 81.46s]: que
+  [81.52s -> 81.78s]: tenía.
+
+[82.16s -> 87.74s] Su horario de trabajo, los lugares donde solía almorzar, incluso el gimnasio al que iba tres veces por semana.
+  [82.16s -> 82.24s]: Su
+  [82.28s -> 82.56s]: horario
+  [82.60s -> 82.68s]: de
+  [82.74s -> 83.10s]: trabajo,
+  [83.44s -> 83.54s]: los
+  [83.58s -> 83.84s]: lugares
+  [83.86s -> 84.10s]: donde
+  [84.16s -> 84.46s]: solía
+  [84.50s -> 84.92s]: almorzar,
+  [85.18s -> 85.52s]: incluso
+  [85.56s -> 85.62s]: el
+  [85.66s -> 86.12s]: gimnasio
+  [86.18s -> 86.26s]: al
+  [86.30s -> 86.38s]: que
+  [86.46s -> 86.62s]: iba
+  [86.72s -> 86.90s]: tres
+  [86.96s -> 87.20s]: veces
+  [87.28s -> 87.38s]: por
+  [87.44s -> 87.74s]: semana.
+
+[88.26s -> 91.03s] La primera semana, Laura me envió reportes detallados.
+  [88.26s -> 88.32s]: La
+  [88.36s -> 88.62s]: primera
+  [88.68s -> 89.00s]: semana,
+  [89.34s -> 89.60s]: Laura
+  [89.66s -> 89.74s]: me
+  [89.78s -> 90.04s]: envió
+  [90.10s -> 90.50s]: reportes
+  [90.55s -> 91.03s]: detallados.
+
+[92.10s -> 97.32s]  Carlos iba del trabajo a casa, al gimnasio, y ocasionalmente tomaba café con compañeros de oficina.
+  [92.10s -> 92.32s]: Carlos
+  [92.40s -> 92.54s]: iba
+  [92.58s -> 92.68s]: del
+  [92.72s -> 92.98s]: trabajo
+  [93.00s -> 93.02s]: a
+  [93.12s -> 93.38s]: casa,
+  [93.68s -> 93.76s]: al
+  [93.80s -> 94.30s]: gimnasio,
+  [94.62s -> 94.66s]: y
+  [94.72s -> 95.40s]: ocasionalmente
+  [95.42s -> 95.76s]: tomaba
+  [95.82s -> 96.12s]: café
+  [96.16s -> 96.28s]: con
+  [96.34s -> 96.76s]: compañeros
+  [96.80s -> 96.86s]: de
+  [96.88s -> 97.32s]: oficina.
+
+[98.24s -> 99.18s] Nada sospechoso.
+  [98.24s -> 98.46s]: Nada
+  [98.54s -> 99.18s]: sospechoso.
+
+[99.72s -> 101.10s] Hoy lo seguí al centro comercial.
+  [99.72s -> 99.86s]: Hoy
+  [99.88s -> 99.94s]: lo
+  [100.00s -> 100.22s]: seguí
+  [100.26s -> 100.30s]: al
+  [100.38s -> 100.60s]: centro
+  [100.66s -> 101.10s]: comercial.
+
+[102.02s -> 103.98s] Estuvo mirando jochería por casi una hora.
+  [102.02s -> 102.32s]: Estuvo
+  [102.38s -> 102.66s]: mirando
+  [102.72s -> 103.10s]: jochería
+  [103.16s -> 103.26s]: por
+  [103.32s -> 103.54s]: casi
+  [103.60s -> 103.72s]: una
+  [103.80s -> 103.98s]: hora.
+
+[104.86s -> 107.00s] Quizás esté planeando alguna sorpresa para ti.
+  [104.86s -> 105.17s]: Quizás
+  [105.19s -> 105.42s]: esté
+  [105.48s -> 105.91s]: planeando
+  [105.92s -> 106.17s]: alguna
+  [106.22s -> 106.58s]: sorpresa
+  [106.64s -> 106.78s]: para
+  [106.86s -> 107.00s]: ti.
+
+[107.48s -> 109.37s] Ese comentario me hizo sentir culpable.
+  [107.48s -> 107.64s]: Ese
+  [107.70s -> 108.15s]: comentario
+  [108.23s -> 108.29s]: me
+  [108.35s -> 108.57s]: hizo
+  [108.63s -> 108.93s]: sentir
+  [108.99s -> 109.37s]: culpable.
+
+[110.25s -> 111.33s] ¿Y si estaba equivocada?
+  [110.25s -> 110.29s]: ¿Y
+  [110.33s -> 110.41s]: si
+  [110.47s -> 110.73s]: estaba
+  [110.79s -> 111.33s]: equivocada?
+
+[111.35s -> 114.75s] ¿Y si Carlos simplemente estaba planeando algo especial?
+  [111.35s -> 111.37s]: ¿Y
+  [112.33s -> 112.41s]: si
+  [112.45s -> 112.71s]: Carlos
+  [112.79s -> 113.29s]: simplemente
+  [113.33s -> 113.59s]: estaba
+  [113.65s -> 114.07s]: planeando
+  [114.09s -> 114.31s]: algo
+  [114.35s -> 114.75s]: especial?
+
+[114.77s -> 117.55s] Cariño, ¿te gustaría ir a cenar este viernes?
+  [114.77s -> 115.61s]: Cariño,
+  [115.91s -> 116.01s]: ¿te
+  [116.05s -> 116.43s]: gustaría
+  [116.53s -> 116.61s]: ir
+  [116.63s -> 116.65s]: a
+  [116.71s -> 116.97s]: cenar
+  [117.03s -> 117.19s]: este
+  [117.23s -> 117.55s]: viernes?
+
+[118.51s -> 120.97s] Hace tiempo que no tenemos una noche solo para nosotros.
+  [118.51s -> 118.69s]: Hace
+  [118.75s -> 118.97s]: tiempo
+  [119.03s -> 119.13s]: que
+  [119.19s -> 119.27s]: no
+  [119.31s -> 119.63s]: tenemos
+  [119.69s -> 119.83s]: una
+  [119.89s -> 120.11s]: noche
+  [120.19s -> 120.37s]: solo
+  [120.43s -> 120.57s]: para
+  [120.63s -> 120.97s]: nosotros.
+
+[121.56s -> 123.68s]  Me sorprendió su invitación, pero acepté.
+  [121.56s -> 121.64s]: Me
+  [121.70s -> 122.10s]: sorprendió
+  [122.14s -> 122.22s]: su
+  [122.26s -> 122.76s]: invitación,
+  [123.08s -> 123.22s]: pero
+  [123.26s -> 123.68s]: acepté.
+
+[124.50s -> 127.32s] Tal vez Laura tenía razón y yo estaba siendo paranoica.
+  [124.50s -> 124.64s]: Tal
+  [124.68s -> 124.82s]: vez
+  [124.88s -> 125.12s]: Laura
+  [125.18s -> 125.44s]: tenía
+  [125.52s -> 125.82s]: razón
+  [125.88s -> 125.92s]: y
+  [125.98s -> 126.10s]: yo
+  [126.14s -> 126.42s]: estaba
+  [126.50s -> 126.72s]: siendo
+  [126.78s -> 127.32s]: paranoica.
+
+[127.82s -> 132.69s] La cena fue maravillosa, pero Carlos seguía distraído, mirando su teléfono constantemente.
+  [127.82s -> 127.88s]: La
+  [127.94s -> 128.16s]: cena
+  [128.22s -> 128.34s]: fue
+  [128.37s -> 128.94s]: maravillosa,
+  [129.26s -> 129.41s]: pero
+  [129.49s -> 129.73s]: Carlos
+  [129.79s -> 130.07s]: seguía
+  [130.13s -> 130.65s]: distraído,
+  [130.97s -> 131.25s]: mirando
+  [131.31s -> 131.39s]: su
+  [131.43s -> 131.83s]: teléfono
+  [131.91s -> 132.69s]: constantemente.
+
+[133.59s -> 137.05s] Cuando le pregunté, dijo que era por un proyecto importante del trabajo.
+  [133.59s -> 133.77s]: Cuando
+  [133.81s -> 133.89s]: le
+  [133.93s -> 134.31s]: pregunté,
+  [134.69s -> 134.89s]: dijo
+  [134.93s -> 135.05s]: que
+  [135.11s -> 135.23s]: era
+  [135.31s -> 135.41s]: por
+  [135.45s -> 135.51s]: un
+  [135.55s -> 135.91s]: proyecto
+  [135.99s -> 136.45s]: importante
+  [136.51s -> 136.63s]: del
+  [136.67s -> 137.05s]: trabajo.
+
+[137.61s -> 139.89s] Marina, hoy lo vi entrar a un café con una mujer.
+  [137.61s -> 137.97s]: Marina,
+  [138.21s -> 138.33s]: hoy
+  [138.39s -> 138.45s]: lo
+  [138.49s -> 138.57s]: vi
+  [138.59s -> 138.89s]: entrar
+  [138.91s -> 138.93s]: a
+  [138.97s -> 139.03s]: un
+  [139.07s -> 139.33s]: café
+  [139.37s -> 139.47s]: con
+  [139.51s -> 139.63s]: una
+  [139.69s -> 139.89s]: mujer.
+
+[140.91s -> 144.37s]  Estuvieron hablando por casi dos horas, pero parecía una reunión formal.
+  [140.91s -> 141.27s]: Estuvieron
+  [141.33s -> 141.61s]: hablando
+  [141.67s -> 141.77s]: por
+  [141.83s -> 142.03s]: casi
+  [142.09s -> 142.21s]: dos
+  [142.27s -> 142.49s]: horas,
+  [142.51s -> 142.99s]: pero
+  [143.07s -> 143.47s]: parecía
+  [143.53s -> 143.63s]: una
+  [143.69s -> 143.97s]: reunión
+  [144.03s -> 144.37s]: formal.
+
+[145.23s -> 146.46s] Llevaba traje y maletín.
+  [145.23s -> 145.53s]: Llevaba
+  [145.61s -> 145.93s]: traje
+  [145.95s -> 145.99s]: y
+  [146.05s -> 146.46s]: maletín.
+
+[146.94s -> 148.38s] ¿Pudiste ver quién era la mujer?
+  [146.94s -> 147.29s]: ¿Pudiste
+  [147.35s -> 147.47s]: ver
+  [147.53s -> 147.74s]: quién
+  [147.78s -> 147.90s]: era
+  [147.97s -> 148.01s]: la
+  [148.07s -> 148.38s]: mujer?
+
+[148.92s -> 151.82s] No muy bien, pero tenía cabello rubio y vestía elegante.
+  [148.92s -> 149.02s]: No
+  [149.08s -> 149.18s]: muy
+  [149.22s -> 149.42s]: bien,
+  [149.72s -> 149.86s]: pero
+  [149.94s -> 150.16s]: tenía
+  [150.24s -> 150.56s]: cabello
+  [150.64s -> 150.92s]: rubio
+  [151.00s -> 151.04s]: y
+  [151.08s -> 151.34s]: vestía
+  [151.38s -> 151.82s]: elegante.
+
+[152.70s -> 155.30s] Parecía mayor que él, quizás una jefa o cliente.
+  [152.70s -> 153.08s]: Parecía
+  [153.14s -> 153.42s]: mayor
+  [153.44s -> 153.54s]: que
+  [153.60s -> 153.72s]: él,
+  [154.00s -> 154.30s]: quizás
+  [154.34s -> 154.44s]: una
+  [154.52s -> 154.74s]: jefa
+  [154.76s -> 154.78s]: o
+  [154.90s -> 155.30s]: cliente.
+
+[155.82s -> 158.92s] Pasaron tres semanas más de vigilancia sin resultados concluyentes.
+  [155.82s -> 156.12s]: Pasaron
+  [156.16s -> 156.28s]: tres
+  [156.32s -> 156.62s]: semanas
+  [156.74s -> 156.86s]: más
+  [156.88s -> 156.94s]: de
+  [157.00s -> 157.52s]: vigilancia
+  [157.58s -> 157.72s]: sin
+  [157.76s -> 158.22s]: resultados
+  [158.32s -> 158.92s]: concluyentes.
+
+[159.94s -> 164.16s] Laura comenzó a sugerir que tal vez estaba equivocada, que Carlos no me estaba engañando.
+  [159.94s -> 160.16s]: Laura
+  [160.22s -> 160.54s]: comenzó
+  [160.56s -> 160.58s]: a
+  [160.62s -> 160.98s]: sugerir
+  [161.02s -> 161.12s]: que
+  [161.18s -> 161.30s]: tal
+  [161.36s -> 161.52s]: vez
+  [161.54s -> 161.82s]: estaba
+  [161.86s -> 162.36s]: equivocada,
+  [162.68s -> 162.78s]: que
+  [162.86s -> 163.16s]: Carlos
+  [163.26s -> 163.34s]: no
+  [163.36s -> 163.44s]: me
+  [163.46s -> 163.72s]: estaba
+  [163.74s -> 164.16s]: engañando.
+
+[164.66s -> 166.44s] Creo que deberíamos cambiar de estrategia.
+  [164.66s -> 164.82s]: Creo
+  [164.86s -> 164.96s]: que
+  [165.00s -> 165.42s]: deberíamos
+  [165.50s -> 165.76s]: cambiar
+  [165.80s -> 165.86s]: de
+  [165.90s -> 166.44s]: estrategia.
+
+[167.32s -> 168.93s] ¿Qué tal si me acerco a él directamente?
+  [167.32s -> 167.40s]: ¿Qué
+  [167.46s -> 167.62s]: tal
+  [167.66s -> 167.74s]: si
+  [167.78s -> 167.86s]: me
+  [167.90s -> 168.20s]: acerco
+  [168.24s -> 168.28s]: a
+  [168.32s -> 168.38s]: él
+  [168.42s -> 168.93s]: directamente?
+
+[169.88s -> 172.74s]  Podría fingir encuentros casuales, ganarme su confianza.
+  [169.88s -> 170.14s]: Podría
+  [170.22s -> 170.50s]: fingir
+  [170.52s -> 170.90s]: encuentros
+  [170.96s -> 171.40s]: casuales,
+  [171.72s -> 172.08s]: ganarme
+  [172.12s -> 172.20s]: su
+  [172.26s -> 172.74s]: confianza.
+
+[173.69s -> 174.71s] Así descubriría más.
+  [173.69s -> 173.84s]: Así
+  [173.91s -> 174.47s]: descubriría
+  [174.53s -> 174.71s]: más.
+
+[175.31s -> 178.17s] No estaba segura, pero la incertidumbre me estaba matando.
+  [175.31s -> 175.41s]: No
+  [175.49s -> 175.75s]: estaba
+  [175.83s -> 176.15s]: segura,
+  [176.47s -> 176.59s]: pero
+  [176.65s -> 176.71s]: la
+  [176.73s -> 177.33s]: incertidumbre
+  [177.39s -> 177.47s]: me
+  [177.49s -> 177.77s]: estaba
+  [177.83s -> 178.17s]: matando.
+
+[179.14s -> 180.66s]  Accedí, aunque con reservas.
+  [179.14s -> 179.54s]: Accedí,
+  [179.84s -> 180.06s]: aunque
+  [180.10s -> 180.21s]: con
+  [180.25s -> 180.66s]: reservas.
+
+[181.31s -> 183.99s] Me encontré, casualmente, con él en el gimnasio hoy.
+  [181.31s -> 181.37s]: Me
+  [181.41s -> 181.76s]: encontré,
+  [181.97s -> 182.53s]: casualmente,
+  [182.81s -> 182.93s]: con
+  [182.97s -> 183.05s]: él
+  [183.09s -> 183.13s]: en
+  [183.19s -> 183.25s]: el
+  [183.29s -> 183.73s]: gimnasio
+  [183.81s -> 183.99s]: hoy.
+
+[184.83s -> 187.25s] Charlamos un rato después de la clase de spinning.
+  [184.83s -> 185.27s]: Charlamos
+  [185.33s -> 185.39s]: un
+  [185.45s -> 185.65s]: rato
+  [185.71s -> 185.95s]: después
+  [185.99s -> 186.05s]: de
+  [186.09s -> 186.15s]: la
+  [186.21s -> 186.45s]: clase
+  [186.51s -> 186.61s]: de
+  [186.83s -> 187.25s]: spinning.
+
+[188.13s -> 190.11s] Es bastante agradable cuando lo conoces mejor.
+  [188.13s -> 188.21s]: Es
+  [188.25s -> 188.59s]: bastante
+  [188.65s -> 189.09s]: agradable
+  [189.15s -> 189.33s]: cuando
+  [189.37s -> 189.43s]: lo
+  [189.49s -> 189.83s]: conoces
+  [189.87s -> 190.11s]: mejor.
+
+[190.59s -> 191.73s] ¿Te dijo algo importante?
+  [190.59s -> 190.67s]: ¿Te
+  [190.73s -> 190.95s]: dijo
+  [190.97s -> 191.17s]: algo
+  [191.23s -> 191.73s]: importante?
+
+[192.27s -> 195.31s] No realmente, pero me invitó a tomar un café la próxima semana.
+  [192.27s -> 192.35s]: No
+  [192.41s -> 192.89s]: realmente,
+  [193.17s -> 193.31s]: pero
+  [193.35s -> 193.41s]: me
+  [193.47s -> 193.73s]: invitó
+  [193.77s -> 193.79s]: a
+  [193.87s -> 194.07s]: tomar
+  [194.13s -> 194.17s]: un
+  [194.21s -> 194.47s]: café
+  [194.51s -> 194.55s]: la
+  [194.61s -> 194.91s]: próxima
+  [194.99s -> 195.31s]: semana.
+
+[196.25s -> 198.31s] Dijo que quería hablar sobre una sorpresa para ti.
+  [196.25s -> 196.41s]: Dijo
+  [196.45s -> 196.53s]: que
+  [196.57s -> 196.81s]: quería
+  [196.85s -> 197.07s]: hablar
+  [197.11s -> 197.29s]: sobre
+  [197.35s -> 197.45s]: una
+  [197.51s -> 197.87s]: sorpresa
+  [197.93s -> 198.07s]: para
+  [198.15s -> 198.31s]: ti.
+
+[198.81s -> 200.19s] Eso reavivó mis esperanzas.
+  [198.81s -> 198.95s]: Eso
+  [199.01s -> 199.37s]: reavivó
+  [199.45s -> 199.57s]: mis
+  [199.63s -> 200.19s]: esperanzas.
+
+[201.24s -> 201.92s] ¿Una sorpresa?
+  [201.24s -> 201.38s]: ¿Una
+  [201.44s -> 201.92s]: sorpresa?
+
+[202.82s -> 203.68s] ¿Quizás un anillo?
+  [202.82s -> 203.16s]: ¿Quizás
+  [203.20s -> 203.28s]: un
+  [203.32s -> 203.68s]: anillo?
+
+[204.18s -> 207.80s] La semana siguiente, Laura y Carlos comenzaron a verse con más frecuencia.
+  [204.18s -> 204.24s]: La
+  [204.28s -> 204.52s]: semana
+  [204.58s -> 204.98s]: siguiente,
+  [205.40s -> 205.64s]: Laura
+  [205.70s -> 205.74s]: y
+  [205.80s -> 206.08s]: Carlos
+  [206.16s -> 206.64s]: comenzaron
+  [206.66s -> 206.68s]: a
+  [206.74s -> 207.00s]: verse
+  [207.06s -> 207.18s]: con
+  [207.24s -> 207.36s]: más
+  [207.42s -> 207.80s]: frecuencia.
+
+[208.82s -> 212.17s]  Según ella, estaba ganándose su confianza para descubrir la verdad.
+  [208.82s -> 209.04s]: Según
+  [209.12s -> 209.30s]: ella,
+  [209.66s -> 209.91s]: estaba
+  [209.94s -> 210.41s]: ganándose
+  [210.44s -> 210.53s]: su
+  [210.59s -> 211.03s]: confianza
+  [211.11s -> 211.23s]: para
+  [211.31s -> 211.73s]: descubrir
+  [211.79s -> 211.85s]: la
+  [211.89s -> 212.17s]: verdad.
+
+[212.73s -> 215.67s] Oye, me encontré con tu amiga Laura en el gimnasio otra vez.
+  [212.73s -> 212.93s]: Oye,
+  [213.23s -> 213.29s]: me
+  [213.33s -> 213.69s]: encontré
+  [213.73s -> 213.83s]: con
+  [213.87s -> 213.93s]: tu
+  [213.95s -> 214.17s]: amiga
+  [214.29s -> 214.51s]: Laura
+  [214.55s -> 214.61s]: en
+  [214.65s -> 214.71s]: el
+  [214.75s -> 215.17s]: gimnasio
+  [215.19s -> 215.27s]: otra
+  [215.51s -> 215.67s]: vez.
+
+[216.65s -> 217.45s] Es muy simpática.
+  [216.65s -> 216.73s]: Es
+  [216.81s -> 216.91s]: muy
+  [216.97s -> 217.45s]: simpática.
+
+[218.05s -> 218.65s] Ah, sí.
+  [218.05s -> 218.13s]: Ah,
+  [218.47s -> 218.65s]: sí.
+
+[219.57s -> 220.31s] ¿De qué hablaron?
+  [219.57s -> 219.65s]: ¿De
+  [219.73s -> 219.85s]: qué
+  [219.91s -> 220.31s]: hablaron?
+
+[220.79s -> 223.36s] De nada especial, cosas del gimnasio, música.
+  [220.79s -> 220.87s]: De
+  [220.95s -> 221.13s]: nada
+  [221.17s -> 221.51s]: especial,
+  [221.53s -> 222.09s]: cosas
+  [222.13s -> 222.24s]: del
+  [222.28s -> 222.74s]: gimnasio,
+  [223.00s -> 223.36s]: música.
+
+[224.26s -> 226.42s] Es bueno tener amigos en común, ¿no crees?
+  [224.26s -> 224.34s]: Es
+  [224.38s -> 224.54s]: bueno
+  [224.62s -> 224.84s]: tener
+  [224.88s -> 225.20s]: amigos
+  [225.24s -> 225.32s]: en
+  [225.36s -> 225.60s]: común,
+  [225.94s -> 226.02s]: ¿no
+  [226.10s -> 226.42s]: crees?
+
+[226.92s -> 227.56s] Por supuesto.
+  [226.92s -> 227.04s]: Por
+  [227.10s -> 227.56s]: supuesto.
+
+[228.55s -> 231.81s]  Me alegra que se lleven bien, pero algo en su tono me inquietó.
+  [228.55s -> 228.61s]: Me
+  [228.67s -> 228.99s]: alegra
+  [229.03s -> 229.13s]: que
+  [229.17s -> 229.23s]: se
+  [229.29s -> 229.57s]: lleven
+  [229.61s -> 229.81s]: bien,
+  [230.31s -> 230.45s]: pero
+  [230.47s -> 230.75s]: algo
+  [230.79s -> 230.87s]: en
+  [230.91s -> 230.99s]: su
+  [231.05s -> 231.29s]: tono
+  [231.31s -> 231.37s]: me
+  [231.43s -> 231.81s]: inquietó.
+
+[232.67s -> 234.35s] Contacté a Laura inmediatamente.
+  [232.67s -> 233.11s]: Contacté
+  [233.13s -> 233.15s]: a
+  [233.23s -> 233.53s]: Laura
+  [233.59s -> 234.35s]: inmediatamente.
+
+[234.89s -> 236.11s] —Relájate, Marina.
+  [234.89s -> 235.49s]: —Relájate,
+  [235.77s -> 236.11s]: Marina.
+
+[236.97s -> 238.00s] Todo está bajo control.
+  [236.97s -> 237.16s]: Todo
+  [237.19s -> 237.35s]: está
+  [237.41s -> 237.60s]: bajo
+  [237.68s -> 238.00s]: control.
+
+[238.92s -> 241.26s] Estoy cada vez más cerca de averiguar si oculta algo.
+  [238.92s -> 239.14s]: Estoy
+  [239.20s -> 239.36s]: cada
+  [239.40s -> 239.50s]: vez
+  [239.56s -> 239.68s]: más
+  [239.74s -> 239.96s]: cerca
+  [239.98s -> 240.04s]: de
+  [240.08s -> 240.48s]: averiguar
+  [240.52s -> 240.60s]: si
+  [240.66s -> 240.98s]: oculta
+  [241.04s -> 241.26s]: algo.
+
+[241.76s -> 244.64s] Los reportes de Laura se volvieron menos frecuentes y más vagos.
+  [241.76s -> 241.84s]: Los
+  [241.86s -> 242.18s]: reportes
+  [242.22s -> 242.28s]: de
+  [242.32s -> 242.58s]: Laura
+  [242.64s -> 242.70s]: se
+  [242.76s -> 243.12s]: volvieron
+  [243.16s -> 243.38s]: menos
+  [243.44s -> 243.86s]: frecuentes
+  [243.88s -> 243.90s]: y
+  [244.12s -> 244.26s]: más
+  [244.32s -> 244.64s]: vagos.
+
+[245.60s -> 250.35s] Cuando le preguntaba detalles, cambiaba de tema o decía que no había nada importante que contar.
+  [245.60s -> 245.78s]: Cuando
+  [245.84s -> 245.90s]: le
+  [245.94s -> 246.34s]: preguntaba
+  [246.38s -> 246.80s]: detalles,
+  [247.18s -> 247.52s]: cambiaba
+  [247.56s -> 247.64s]: de
+  [247.72s -> 247.92s]: tema
+  [247.94s -> 247.96s]: o
+  [248.12s -> 248.44s]: decía
+  [248.50s -> 248.60s]: que
+  [248.65s -> 248.72s]: no
+  [248.76s -> 249.00s]: había
+  [249.09s -> 249.28s]: nada
+  [249.34s -> 249.81s]: importante
+  [249.85s -> 249.95s]: que
+  [250.03s -> 250.35s]: contar.
+
+[250.85s -> 254.09s] Un día, decidí sorprender a Carlos en su oficina para almorzar juntos.
+  [250.85s -> 250.93s]: Un
+  [250.97s -> 251.17s]: día,
+  [251.53s -> 251.85s]: decidí
+  [251.89s -> 252.29s]: sorprender
+  [252.31s -> 252.33s]: a
+  [252.39s -> 252.69s]: Carlos
+  [252.75s -> 252.81s]: en
+  [252.85s -> 252.91s]: su
+  [252.95s -> 253.33s]: oficina
+  [253.39s -> 253.53s]: para
+  [253.57s -> 253.95s]: almorzar
+  [253.97s -> 254.09s]: juntos.
+
+[255.32s -> 260.16s]  Para mi sorpresa, su secretaria me dijo que había salido hace una hora y no volvería hasta la tarde.
+  [255.32s -> 255.46s]: Para
+  [255.50s -> 255.56s]: mi
+  [255.62s -> 256.00s]: sorpresa,
+  [256.32s -> 256.42s]: su
+  [256.46s -> 256.92s]: secretaria
+  [256.98s -> 257.04s]: me
+  [257.10s -> 257.28s]: dijo
+  [257.32s -> 257.40s]: que
+  [257.44s -> 257.62s]: había
+  [257.70s -> 258.00s]: salido
+  [258.06s -> 258.24s]: hace
+  [258.28s -> 258.38s]: una
+  [258.48s -> 258.68s]: hora
+  [258.76s -> 258.80s]: y
+  [258.86s -> 258.96s]: no
+  [259.02s -> 259.46s]: volvería
+  [259.50s -> 259.70s]: hasta
+  [259.76s -> 259.82s]: la
+  [259.88s -> 260.16s]: tarde.
+
+[260.66s -> 263.99s] Le escribí a Laura para contarle, pero no respondió hasta la noche.
+  [260.66s -> 260.70s]: Le
+  [260.72s -> 261.08s]: escribí
+  [261.11s -> 261.14s]: a
+  [261.19s -> 261.44s]: Laura
+  [261.49s -> 261.62s]: para
+  [261.69s -> 262.11s]: contarle,
+  [262.45s -> 262.61s]: pero
+  [262.67s -> 262.79s]: no
+  [262.87s -> 263.31s]: respondió
+  [263.35s -> 263.53s]: hasta
+  [263.59s -> 263.65s]: la
+  [263.71s -> 263.99s]: noche.
+
+[264.47s -> 267.11s] Perdón por no contestar, estuve ocupada con un proyecto.
+  [264.47s -> 264.75s]: Perdón
+  [264.79s -> 264.89s]: por
+  [264.93s -> 265.01s]: no
+  [265.07s -> 265.53s]: contestar,
+  [265.77s -> 266.03s]: estuve
+  [266.07s -> 266.39s]: ocupada
+  [266.45s -> 266.57s]: con
+  [266.61s -> 266.67s]: un
+  [266.69s -> 267.11s]: proyecto.
+
+[267.95s -> 269.09s] ¡Qué extraño lo de Carlos!
+  [267.95s -> 268.07s]: ¡Qué
+  [268.11s -> 268.49s]: extraño
+  [268.55s -> 268.61s]: lo
+  [268.65s -> 268.71s]: de
+  [268.77s -> 269.09s]: Carlos!
+
+[269.11s -> 270.81s] Ya le preguntaste dónde estuvo.
+  [269.11s -> 269.67s]: Ya
+  [269.69s -> 269.73s]: le
+  [269.75s -> 270.23s]: preguntaste
+  [270.29s -> 270.47s]: dónde
+  [270.49s -> 270.81s]: estuvo.
+
+[271.30s -> 272.10s] Pasó un mes más.
+  [271.30s -> 271.54s]: Pasó
+  [271.62s -> 271.71s]: un
+  [271.75s -> 271.92s]: mes
+  [272.00s -> 272.10s]: más.
+
+[273.17s -> 280.50s]  La actitud de Carlos había cambiado, estaba más distante, pero paradójicamente, más cariñoso en ocasiones, como compensando algo.
+  [273.17s -> 273.23s]: La
+  [273.25s -> 273.53s]: actitud
+  [273.57s -> 273.65s]: de
+  [273.71s -> 274.01s]: Carlos
+  [274.09s -> 274.27s]: había
+  [274.35s -> 274.71s]: cambiado,
+  [275.09s -> 275.43s]: estaba
+  [275.53s -> 275.63s]: más
+  [275.69s -> 276.11s]: distante,
+  [276.45s -> 276.57s]: pero
+  [276.65s -> 277.49s]: paradójicamente,
+  [277.83s -> 277.95s]: más
+  [277.99s -> 278.47s]: cariñoso
+  [278.51s -> 278.59s]: en
+  [278.63s -> 279.09s]: ocasiones,
+  [279.47s -> 279.61s]: como
+  [279.69s -> 280.21s]: compensando
+  [280.23s -> 280.50s]: algo.
+
+[281.04s -> 284.26s] Fue entonces cuando comencé a notar que Laura también actuaba extraña.
+  [281.04s -> 281.15s]: Fue
+  [281.18s -> 281.54s]: entonces
+  [281.58s -> 281.78s]: cuando
+  [281.84s -> 282.20s]: comencé
+  [282.22s -> 282.24s]: a
+  [282.32s -> 282.56s]: notar
+  [282.60s -> 282.66s]: que
+  [282.74s -> 283.00s]: Laura
+  [283.10s -> 283.42s]: también
+  [283.44s -> 283.78s]: actuaba
+  [283.84s -> 284.26s]: extraña.
+
+[285.08s -> 290.74s] Cancelaba nuestros planes, respondía tarde a mis mensajes, y cuando nos veíamos, parecía nerviosa.
+  [285.08s -> 285.56s]: Cancelaba
+  [285.60s -> 285.90s]: nuestros
+  [285.96s -> 286.26s]: planes,
+  [286.64s -> 287.08s]: respondía
+  [287.20s -> 287.44s]: tarde
+  [287.48s -> 287.50s]: a
+  [287.56s -> 287.66s]: mis
+  [287.72s -> 288.14s]: mensajes,
+  [288.16s -> 288.18s]: y
+  [288.64s -> 288.82s]: cuando
+  [288.88s -> 288.98s]: nos
+  [289.02s -> 289.46s]: veíamos,
+  [289.80s -> 290.20s]: parecía
+  [290.26s -> 290.74s]: nerviosa.
+
+[291.28s -> 297.79s] Una tarde, mientras buscaba un documento en el departamento de Carlos, encontré un recibo de un restaurante al que nunca habíamos ido juntos.
+  [291.28s -> 291.40s]: Una
+  [291.46s -> 291.70s]: tarde,
+  [292.00s -> 292.29s]: mientras
+  [292.35s -> 292.69s]: buscaba
+  [292.73s -> 292.79s]: un
+  [292.83s -> 293.21s]: documento
+  [293.27s -> 293.35s]: en
+  [293.39s -> 293.45s]: el
+  [293.49s -> 294.03s]: departamento
+  [294.07s -> 294.15s]: de
+  [294.21s -> 294.51s]: Carlos,
+  [294.89s -> 295.21s]: encontré
+  [295.25s -> 295.29s]: un
+  [295.35s -> 295.63s]: recibo
+  [295.65s -> 295.75s]: de
+  [295.83s -> 295.89s]: un
+  [295.93s -> 296.43s]: restaurante
+  [296.45s -> 296.49s]: al
+  [296.63s -> 296.75s]: que
+  [296.83s -> 297.05s]: nunca
+  [297.07s -> 297.51s]: habíamos
+  [297.53s -> 297.59s]: ido
+  [297.61s -> 297.79s]: juntos.
+
+[299.24s -> 302.54s]  La fecha coincidía con un día en que me dijo que trabajaría hasta tarde.
+  [299.24s -> 299.30s]: La
+  [299.34s -> 299.56s]: fecha
+  [299.62s -> 300.10s]: coincidía
+  [300.18s -> 300.28s]: con
+  [300.34s -> 300.42s]: un
+  [300.46s -> 300.62s]: día
+  [300.70s -> 300.76s]: en
+  [300.80s -> 300.88s]: que
+  [300.92s -> 301.00s]: me
+  [301.04s -> 301.22s]: dijo
+  [301.28s -> 301.36s]: que
+  [301.40s -> 301.96s]: trabajaría
+  [301.98s -> 302.20s]: hasta
+  [302.26s -> 302.54s]: tarde.
+
+[303.02s -> 305.60s] Llamé a Laura inmediatamente, pero no contestó.
+  [303.02s -> 303.32s]: Llamé
+  [303.36s -> 303.38s]: a
+  [303.44s -> 303.70s]: Laura
+  [303.74s -> 304.46s]: inmediatamente,
+  [304.80s -> 304.94s]: pero
+  [304.96s -> 305.12s]: no
+  [305.20s -> 305.60s]: contestó.
+
+[306.50s -> 307.93s] Decidí ir a su apartamento.
+  [306.50s -> 306.87s]: Decidí
+  [306.88s -> 307.11s]: ir
+  [307.12s -> 307.14s]: a
+  [307.20s -> 307.29s]: su
+  [307.32s -> 307.93s]: apartamento.
+
+[308.38s -> 310.17s] Lo que encontré allí destrozó mi mundo.
+  [308.38s -> 308.44s]: Lo
+  [308.49s -> 308.56s]: que
+  [308.61s -> 308.99s]: encontré
+  [309.02s -> 309.20s]: allí
+  [309.26s -> 309.73s]: destrozó
+  [309.75s -> 309.87s]: mi
+  [309.93s -> 310.17s]: mundo.
+
+[311.06s -> 315.89s] Al entrar, vi a Carlos y Laura juntos en el sofá, claramente sorprendidos por mi presencia.
+  [311.06s -> 311.17s]: Al
+  [311.20s -> 311.46s]: entrar,
+  [311.81s -> 311.89s]: vi
+  [311.91s -> 311.95s]: a
+  [312.03s -> 312.31s]: Carlos
+  [312.39s -> 312.45s]: y
+  [312.49s -> 312.73s]: Laura
+  [312.81s -> 313.11s]: juntos
+  [313.17s -> 313.25s]: en
+  [313.29s -> 313.33s]: el
+  [313.39s -> 313.67s]: sofá,
+  [314.01s -> 314.45s]: claramente
+  [314.51s -> 315.07s]: sorprendidos
+  [315.15s -> 315.27s]: por
+  [315.31s -> 315.37s]: mi
+  [315.43s -> 315.89s]: presencia.
+
+[316.41s -> 318.39s] Marina, espera, puedo explicarlo.
+  [316.41s -> 317.05s]: Marina,
+  [317.11s -> 317.67s]: espera,
+  [317.69s -> 317.85s]: puedo
+  [317.91s -> 318.39s]: explicarlo.
+
+[318.89s -> 321.37s] No es lo que parece, por favor, déjame hablar.
+  [318.89s -> 318.97s]: No
+  [319.03s -> 319.09s]: es
+  [319.13s -> 319.19s]: lo
+  [319.23s -> 319.31s]: que
+  [319.39s -> 319.75s]: parece,
+  [320.03s -> 320.13s]: por
+  [320.19s -> 320.45s]: favor,
+  [320.75s -> 321.07s]: déjame
+  [321.13s -> 321.37s]: hablar.
+
+[321.83s -> 323.47s] Pero era exactamente lo que parecía.
+  [321.83s -> 321.97s]: Pero
+  [322.03s -> 322.15s]: era
+  [322.21s -> 322.81s]: exactamente
+  [322.87s -> 322.93s]: lo
+  [322.95s -> 323.05s]: que
+  [323.11s -> 323.47s]: parecía.
+
+[324.40s -> 327.84s]  Mi novio y mi mejor amiga me habían traicionado de la peor manera posible.
+  [324.40s -> 324.46s]: Mi
+  [324.50s -> 324.78s]: novio
+  [324.84s -> 324.88s]: y
+  [324.92s -> 325.00s]: mi
+  [325.06s -> 325.30s]: mejor
+  [325.32s -> 325.60s]: amiga
+  [325.66s -> 325.70s]: me
+  [325.74s -> 325.96s]: habían
+  [326.02s -> 326.50s]: traicionado
+  [326.56s -> 326.64s]: de
+  [326.66s -> 326.72s]: la
+  [326.78s -> 327.04s]: peor
+  [327.10s -> 327.38s]: manera
+  [327.48s -> 327.84s]: posible.
+
+[328.38s -> 331.96s] Salí corriendo de allí, ignorando sus llamadas y mensajes durante días.
+  [328.38s -> 328.58s]: Salí
+  [328.64s -> 329.00s]: corriendo
+  [329.04s -> 329.10s]: de
+  [329.14s -> 329.34s]: allí,
+  [329.66s -> 330.08s]: ignorando
+  [330.14s -> 330.24s]: sus
+  [330.28s -> 330.64s]: llamadas
+  [330.66s -> 330.68s]: y
+  [330.84s -> 331.28s]: mensajes
+  [331.36s -> 331.66s]: durante
+  [331.73s -> 331.96s]: días.
+
+[332.97s -> 336.29s] Finalmente, Laura apareció en mi puerta con lágrimas en los ojos.
+  [332.97s -> 333.47s]: Finalmente,
+  [333.49s -> 334.13s]: Laura
+  [334.17s -> 334.57s]: apareció
+  [334.61s -> 334.67s]: en
+  [334.71s -> 334.77s]: mi
+  [334.85s -> 335.09s]: puerta
+  [335.17s -> 335.27s]: con
+  [335.31s -> 335.73s]: lágrimas
+  [335.79s -> 335.85s]: en
+  [335.89s -> 335.99s]: los
+  [336.07s -> 336.29s]: ojos.
+
+[336.93s -> 338.35s] Marina, lo siento tanto.
+  [336.93s -> 337.29s]: Marina,
+  [337.57s -> 337.63s]: lo
+  [337.69s -> 337.97s]: siento
+  [338.03s -> 338.35s]: tanto.
+
+[339.27s -> 340.79s] Nunca planeamos que esto pasara.
+  [339.27s -> 339.49s]: Nunca
+  [339.57s -> 339.99s]: planeamos
+  [340.03s -> 340.13s]: que
+  [340.19s -> 340.35s]: esto
+  [340.41s -> 340.79s]: pasara.
+
+[341.65s -> 345.12s] Comenzó como algo inocente, pero entonces... ¿Entonces qué?
+  [341.65s -> 342.01s]: Comenzó
+  [342.07s -> 342.21s]: como
+  [342.23s -> 342.43s]: algo
+  [342.49s -> 342.97s]: inocente,
+  [343.21s -> 343.36s]: pero
+  [343.39s -> 343.81s]: entonces...
+  [344.48s -> 344.88s]: ¿Entonces
+  [344.96s -> 345.12s]: qué?
+
+[346.02s -> 347.58s] ¿Se enamoraron mientras me engañaban?
+  [346.02s -> 346.12s]: ¿Se
+  [346.16s -> 346.64s]: enamoraron
+  [346.70s -> 347.00s]: mientras
+  [347.06s -> 347.12s]: me
+  [347.16s -> 347.58s]: engañaban?
+
+[348.51s -> 352.39s]  Mientras yo sufría pensando que él me era infiel con otra, ¿eras tú todo el tiempo?
+  [348.51s -> 348.79s]: Mientras
+  [348.85s -> 348.93s]: yo
+  [348.99s -> 349.31s]: sufría
+  [349.37s -> 349.77s]: pensando
+  [349.81s -> 349.93s]: que
+  [349.99s -> 350.07s]: él
+  [350.11s -> 350.19s]: me
+  [350.25s -> 350.37s]: era
+  [350.41s -> 350.71s]: infiel
+  [350.75s -> 350.85s]: con
+  [350.91s -> 351.11s]: otra,
+  [351.39s -> 351.63s]: ¿eras
+  [351.69s -> 351.77s]: tú
+  [351.85s -> 352.01s]: todo
+  [352.05s -> 352.09s]: el
+  [352.15s -> 352.39s]: tiempo?
+
+[352.97s -> 354.39s] Las cosas se complicaron aún más.
+  [352.97s -> 353.07s]: Las
+  [353.13s -> 353.33s]: cosas
+  [353.36s -> 353.44s]: se
+  [353.50s -> 353.95s]: complicaron
+  [353.98s -> 354.15s]: aún
+  [354.19s -> 354.39s]: más.
+
+[355.38s -> 356.18s] Estoy embarazada.
+  [355.38s -> 355.60s]: Estoy
+  [355.64s -> 356.18s]: embarazada.
+
+[356.72s -> 358.28s] Esas palabras fueron como un puñal.
+  [356.72s -> 356.90s]: Esas
+  [356.96s -> 357.30s]: palabras
+  [357.40s -> 357.58s]: fueron
+  [357.64s -> 357.78s]: como
+  [357.88s -> 357.94s]: un
+  [357.98s -> 358.28s]: puñal.
+
+[359.20s -> 367.08s] La amiga a quien había confiado mi angustia, mis sospechas, mis inseguridades, no sólo se había acostado con mi novio, sino que esperaba un hijo suyo.
+  [359.20s -> 359.28s]: La
+  [359.34s -> 359.62s]: amiga
+  [359.70s -> 359.74s]: a
+  [359.78s -> 359.92s]: quien
+  [359.96s -> 360.14s]: había
+  [360.22s -> 360.58s]: confiado
+  [360.64s -> 360.70s]: mi
+  [360.76s -> 361.14s]: angustia,
+  [361.44s -> 361.52s]: mis
+  [361.58s -> 362.04s]: sospechas,
+  [362.06s -> 362.54s]: mis
+  [362.60s -> 363.30s]: inseguridades,
+  [363.68s -> 363.76s]: no
+  [363.80s -> 363.98s]: sólo
+  [364.02s -> 364.08s]: se
+  [364.12s -> 364.30s]: había
+  [364.32s -> 364.72s]: acostado
+  [364.80s -> 364.90s]: con
+  [364.94s -> 365.00s]: mi
+  [365.06s -> 365.34s]: novio,
+  [365.66s -> 365.78s]: sino
+  [365.80s -> 365.96s]: que
+  [365.98s -> 366.38s]: esperaba
+  [366.44s -> 366.50s]: un
+  [366.54s -> 366.74s]: hijo
+  [366.82s -> 367.08s]: suyo.
+
+[367.62s -> 370.38s] Intentó contactarme, explicarme, justificarse.
+  [367.62s -> 367.98s]: Intentó
+  [368.04s -> 368.58s]: contactarme,
+  [368.92s -> 369.44s]: explicarme,
+  [369.72s -> 370.38s]: justificarse.
+
+[371.20s -> 373.05s] Pero nada podía reparar lo que habían hecho.
+  [371.20s -> 371.34s]: Pero
+  [371.42s -> 371.58s]: nada
+  [371.64s -> 371.90s]: podía
+  [371.96s -> 372.29s]: reparar
+  [372.32s -> 372.38s]: lo
+  [372.43s -> 372.50s]: que
+  [372.55s -> 372.81s]: habían
+  [372.87s -> 373.05s]: hecho.
+
+[373.56s -> 381.06s]  La ironía de todo es que, en mi obsesión por descubrir una infidelidad que quizás nunca existió al principio, terminé provocando la peor traición imaginable.
+  [373.56s -> 373.60s]: La
+  [373.66s -> 374.00s]: ironía
+  [374.06s -> 374.14s]: de
+  [374.22s -> 374.44s]: todo
+  [374.54s -> 374.64s]: es
+  [374.70s -> 374.82s]: que,
+  [375.08s -> 375.12s]: en
+  [375.16s -> 375.22s]: mi
+  [375.28s -> 375.62s]: obsesión
+  [375.66s -> 375.78s]: por
+  [375.82s -> 376.20s]: descubrir
+  [376.24s -> 376.32s]: una
+  [376.36s -> 376.86s]: infidelidad
+  [376.92s -> 377.02s]: que
+  [377.08s -> 377.38s]: quizás
+  [377.46s -> 377.70s]: nunca
+  [377.74s -> 378.08s]: existió
+  [378.14s -> 378.20s]: al
+  [378.24s -> 378.60s]: principio,
+  [378.82s -> 379.12s]: terminé
+  [379.18s -> 379.62s]: provocando
+  [379.68s -> 379.74s]: la
+  [379.80s -> 380.02s]: peor
+  [380.08s -> 380.48s]: traición
+  [380.54s -> 381.06s]: imaginable.
+
+[381.60s -> 384.59s] Seis meses después, todavía estoy procesando lo sucedido.
+  [381.60s -> 381.81s]: Seis
+  [381.85s -> 382.06s]: meses
+  [382.12s -> 382.43s]: después,
+  [382.87s -> 383.17s]: todavía
+  [383.21s -> 383.41s]: estoy
+  [383.45s -> 383.91s]: procesando
+  [384.01s -> 384.09s]: lo
+  [384.13s -> 384.59s]: sucedido.
+
+[385.45s -> 388.93s] Carlos y Laura siguen juntos, esperando el nacimiento de su bebé.
+  [385.45s -> 385.71s]: Carlos
+  [385.73s -> 385.75s]: y
+  [385.91s -> 386.19s]: Laura
+  [386.27s -> 386.51s]: siguen
+  [386.61s -> 386.93s]: juntos,
+  [387.37s -> 387.73s]: esperando
+  [387.75s -> 387.83s]: el
+  [387.89s -> 388.41s]: nacimiento
+  [388.45s -> 388.53s]: de
+  [388.57s -> 388.65s]: su
+  [388.69s -> 388.93s]: bebé.
+
+[389.79s -> 394.27s] Y yo, aprendiendo a confiar nuevamente, pero esta vez, principalmente en mí misma.
+  [389.79s -> 389.83s]: Y
+  [389.89s -> 390.03s]: yo,
+  [390.45s -> 390.87s]: aprendiendo
+  [390.89s -> 390.91s]: a
+  [390.99s -> 391.31s]: confiar
+  [391.37s -> 391.83s]: nuevamente,
+  [392.17s -> 392.31s]: pero
+  [392.39s -> 392.55s]: esta
+  [392.61s -> 392.77s]: vez,
+  [393.17s -> 393.85s]: principalmente
+  [393.87s -> 393.91s]: en
+  [393.93s -> 394.05s]: mí
+  [394.11s -> 394.27s]: misma.
