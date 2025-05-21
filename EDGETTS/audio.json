@@ -1,0 +1,28 @@
+[
+    {
+        "series": "Mi novio me engañó con la perra de mi tía",
+        "seed": "random",
+        "part": "4",
+        "IA": true,
+        "outro": "Sígueme para más historias completas",
+        "text": "",
+        "textAI": "Mi novio me engañó con la prostituta de mi tía, el día de mi boda y en el carro de mi abuelo fallecido",
+        "randomVideo": false,
+        "video": "https://www.youtube.com/embed/1w7OgIMMRc4",
+        "tipo": "Historia",
+        "etiquetas": "sexo, infidelidad, tía, novio, perra, coito"
+    },
+    {
+        "series": "Titulo de la serie",
+        "seed": "0",
+        "part": "4",
+        "IA": false,
+        "outro": "Sígueme para más historias completas",
+        "text": "texto variado que no genera la IA sino que se toma del texto",
+        "textAI": "",
+        "randomVideo": true,
+        "video": "",
+        "tipo": "Historia",
+        "etiquetas": ""
+    }
+]

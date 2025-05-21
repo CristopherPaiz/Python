@@ -1,0 +1,1 @@
+Este archivo de python, le metes el video en entrada, luego te pregunta el idioma y si es inglés a español, entonces la traduce, luego quema los subtitulos y por ultimo crea un corto en base al video final, eso hace, lo iba a usar para XXX pero no pasé la verificación de las paginas xD, pero sirve para muchas otras cosas más
